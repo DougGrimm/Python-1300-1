@@ -62,5 +62,5 @@ getInput()
 # Thoughts
 # the code is very easy to understand and gets the job done quite well. I did notice that 
 # when putting in the "example output" values from the rubric that my "seconds before object hits ground"
-# isn't 2.27 nor can it round to that so maybe the math is THAT precise.
+# isn't 2.27 nor can it round to that so maybe the math isn't THAT precise.
 
