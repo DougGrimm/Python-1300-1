@@ -1,6 +1,8 @@
+'''Read a file and count the number of numbers as well as the min and max.'''
 
-
-
+# Douglas Grimm
+# 3/28/2023
+# CSIS 1300
 
 
 # https://stackoverflow.com/questions/47954216/python-count-numbers-from-input-file
@@ -13,7 +15,6 @@
 def testList():
     inFile = open("Numbers.txt", 'r') 
     testNumbers = [line.rstrip() for line in inFile] 
-    inFile.close()
     return testNumbers
 
 # this method uses the range function so as to not count too far. Also use the len function
