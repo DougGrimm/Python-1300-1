@@ -5,7 +5,6 @@ will take a state input and give back the information on it'''
 # CSIS 1300
 # 4/4/2023
 
-# This code was pulled from the book and will be explained in detail.
 # In order to get both programs into one file I placed them both in methods.
 def firstPart():
    #open file
