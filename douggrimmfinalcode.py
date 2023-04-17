@@ -15,10 +15,10 @@ guesses = 0
 
 while True:
     userguess = int(input("Guess a number from 1 to 100: "))
-    
+
     # increments everytime it loops
     guesses += 1
-    
+      
     if userguess == number:
         print(f"Correct! It took {guesses} tries to guess the number.")
         break
